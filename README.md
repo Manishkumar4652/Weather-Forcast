@@ -12,9 +12,9 @@ A modern, visually immersive weather forecast web application featuring dynamic 
 
 Check out the full walkthrough video of the Weather Forecast application:
 
-<video src="Screen%20Recording%202026-08-22%20094731.mp4" controls="controls" style="max-width: 100%; border-radius: 12px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-  Your browser does not support playing HTML5 video. You can view the demo video directly in the repository: <code>Screen Recording 2026-08-22 094731.mp4</code>.
-</video>
+![](Screen%20Recording%202026-08-22%20094731.mp4)
+
+🎬 **[▶️ Click Here to Watch Full Screen Recording Demo Video](https://github.com/Manishkumar4652/Weather-Forcast/blob/main/Screen%20Recording%202026-08-22%20094731.mp4)**
 
 ---
 
