@@ -12,9 +12,7 @@ A modern, visually immersive weather forecast web application featuring dynamic 
 
 Check out the full walkthrough video of the Weather Forecast application:
 
-![](Screen%20Recording%202026-08-22%20094731.mp4)
-
-🎬 **[▶️ Click Here to Watch Full Screen Recording Demo Video](https://github.com/Manishkumar4652/Weather-Forcast/blob/main/Screen%20Recording%202026-08-22%20094731.mp4)**
+![Weather Forecast Live Demo](Screen%20Recording%202026-08-22%20094731.gif)
 
 ---
 
@@ -74,7 +72,7 @@ Weather-Forcast/
 ├── README.md               # Complete project documentation
 ├── LICENSE                 # Project license terms
 │
-├── Demo.mp4                 # Application feature demo video
+├── Screen Recording 2026-08-22 094731.gif  # Animated demo preview for README
 ├── Intro.mp4               # Desktop intro video animation
 ├── Mobile-Intro.mp4        # Mobile intro video animation
 ├── Hot.mp4                 # Background video for warm/hot weather
